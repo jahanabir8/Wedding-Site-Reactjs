@@ -1,6 +1,7 @@
 import React from "react";
 import { GiSelfLove } from 'react-icons/gi';
 import { Container } from 'react-bootstrap';
+import "./Menu.css"
 
 export default function Menu(){
     const Datas = [
